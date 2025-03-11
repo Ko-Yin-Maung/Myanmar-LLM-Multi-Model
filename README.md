@@ -1,4 +1,4 @@
-# Myanmar-LLM-Multi-Model
+# Myanmar-LLM (Single-Domain-Multi-Model)
 - Single Domain - Multi Model ကို မြန်မာဘာသာဖြင့် စမ်းကြည့်ထားတာလေး ဖြစ်ပါတယ်။
 - Machine Translation, Q&A, and Summarization (၃)ခုကို samples (50)စီလောက်နဲ့ စမ်းထားတာပါ။
 - Inference code ကို လေ့လာကြည့်ကြပါအုံး။
